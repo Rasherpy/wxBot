@@ -268,12 +268,3 @@ python test.py
 [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot) 网页版微信API，包含终端版微信及微信机器人
 
 [zixia/wechaty](https://github.com/zixia/wechaty) Wechaty is wechat for bot in Javascript(ES6). It's a Personal Account Robot Framework/Library.
-
-## 7 基于Wxbot延伸的一些项目
-[WxbotManage](https://coding.net/u/vivre/p/WxbotManage/git) 基于Wxbot的微信多开管理和Webapi系统
-
-## 8 交流讨论
-
-问题可以直接开 **issue**
-
-**QQ** 交流群： **429134510**
